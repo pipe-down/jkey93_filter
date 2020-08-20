@@ -29,7 +29,6 @@
 ||ace.naver.com^
 ||gfp.veta.naver.com^
 
-
-m.naver.com##HOME_AD
+m.naver.com###HOME_AD
 
 
