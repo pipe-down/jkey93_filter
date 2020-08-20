@@ -30,4 +30,6 @@
 ||gfp.veta.naver.com^
 
 
+m.naver.com##HOME_AD
+
 
