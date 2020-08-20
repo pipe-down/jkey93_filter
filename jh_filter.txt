@@ -1,3 +1,7 @@
+[Adblock Plus 2.0]
+! Title: jh_filter
+! Version: 20200820
+
 ||graph.facebook.com
 ||adservice.google.co.kr
 ||us-west-2-prod-attribution-gate-general.attribution.singular.net
@@ -28,7 +32,6 @@
 ||naverwebtoon-phinf.pstatic.net^
 ||ace.naver.com^
 ||gfp.veta.naver.com^
-
 m.naver.com###HOME_AD
 
 
