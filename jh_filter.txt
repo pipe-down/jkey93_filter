@@ -48,6 +48,15 @@ comic.naver.com##div#adpostArea
 comic.naver.com##div#ppl_image_section
 comic.naver.com##div#ppl_video_section
 comic.naver.com##div#webtoon_ad_section
+m.comic.naver.com##div#AD_WEBTOON_MOBILEWEB_UP
+m.comic.naver.com##div#adPostArea
+m.comic.naver.com##div.ads_sc
+m.comic.naver.com##div.band_banner.v2
+m.comic.naver.com##div.cut_flick_wrap>div.ly_dim
+m.comic.naver.com##div.cut_flick_wrap>div.ly_wrap.viewer_da_ly
+m.comic.naver.com##li.ads_sc
 m.naver.com##div.grid_ad
 m.naver.com##div.id_uio_cd_fbanner
 m.naver.com##div[data-da]
+m.naver.com##HOME_AD
+
