@@ -29,4 +29,20 @@
 ||cc.naver.com^$app=com.nhn.android.webtoon
 ||tg.kakao.com^$app=com.kakao.talk
 ||external.impression-neo.naver.com^
+||gfp.veta.naver.com^
+
+! 네이버 광고 차단
+comic.naver.com##div#addiv
+comic.naver.com##div#adpostArea
+comic.naver.com##div#ppl_image_section
+comic.naver.com##div#ppl_video_section
 comic.naver.com##div#webtoon_ad_section
+m.naver.com##div[data-da]
+m.comic.naver.com##div#AD_WEBTOON_MOBILEWEB_UP
+m.comic.naver.com##div.ads_sc
+m.comic.naver.com##div.band_banner.v2
+m.comic.naver.com##div.cut_flick_wrap>div.ly_dim
+m.comic.naver.com##div.cut_flick_wrap>div.ly_wrap.viewer_da_ly
+m.comic.naver.com##li.ads_sc
+##iframe[src*="//ad.naver.com/adshow"]
+##iframe[src*="//ad.naver.com/fxshow"]
