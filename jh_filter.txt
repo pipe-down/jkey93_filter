@@ -28,3 +28,5 @@
 ||naverwebtoon-phinf.pstatic.net^
 ||cc.naver.com^$app=com.nhn.android.webtoon
 ||tg.kakao.com^$app=com.kakao.talk
+||external.impression-neo.naver.com^
+comic.naver.com##div#webtoon_ad_section
