@@ -3,7 +3,36 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 20.08.21.01
+! Version: 20.08.21.02
+
+@@||dadispapi.gmarket.co.kr^$domain=escrow.gmarket.co.kr
+ruliweb.com##[id^=adsense]
+ruliweb.com##[id^=ad_]
+||mud-kage.kakao.co.kr^
+||item.kakao.com^
+||sb-talk.kakao.com^
+@@||ac-sb-talk.kakao.com^$document
+@@||opgg-static.akamaized.net^$domain=www.op.gg
+||analytics.ad.daum.net^
+||kakaogame.com
+@@||console.ncloud.com^$important,document,~extension
+@@||player.twitch.tv^$important,document,~extension
+quasarzone.co.kr###sticker > div.widget-side > div.banner-box:nth-child(4)
+@@||nid.naver.com^$important,document,~extension
+naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLoaded', function() { window.clickcr = window.nclk = function() { }; } ); }
+play.afreecatv.com###contbox > div.videobox:nth-child(2) > div.htmlplayer_wrap:first-child > div.htmlplayer_content > a.adcon-area:nth-child(11)
+@@||afreecatv.com#%#jquery.min.js
+tvdaily.asiae.co.kr###STATICMENU2
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kakaotv.daum.net,third-party
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tv.kakao.com,third-party
+@@||bidder.criteo.com^$domain=api.dable.io,third-party
+||tg.kakao.com^$app=com.kakao.talk
+@@//www.interpark.com^$document
+||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
+@@//online.uplussave.com^$document
+@@||store.musinsa.com^$important,document,~extension
+@@||riotgames.com^
+@@||leagueoflegends.com^
 
 ||graph.facebook.com
 ||adservice.google.co.kr
@@ -36,7 +65,64 @@
 ||ace.naver.com^
 ||gfp.veta.naver.com^
 ||m.veta.naver.com.nheos.com
+
+@@||kauth.kakao.com
+@@||live.pcr.kakaogame.com
+@@||talk-pilsner.kakao.com
+@@||katalk.kakao.com
+@@||web-data-game.kakaocdn.net
+@@||app.dcinside.com
+@@||json2.dcinside.com.wtxcdn.com
+@@||dcimg5.dcinside.com
+@@||app-measurement.com
+@@||cus-zinny3.kakaogames.com
+@@||patch.pcr.kakaogame.com
+@@||upload.dcinside.com
+@@||json2.dcinside.com
+@@||session-zinny3.game.kakao.com
+@@||infodesk-zinny3.game.kakao.com
+@@||openapi-zinny3.game.kakao.com
+@@||kapi.kakao.com
+@@||patch.pcr.kakaogame.com.service3.gscdn.net
+@@||pcr-cdn.s3-ap-northeast-2.amazonaws.com
+@@||p20-buy.itunes.apple.com
+@@||p31-keyvalueservice.icloud.com
+@@||www.apple.com
+@@||gsp64-ssl.ls.apple.com
+@@||gateway.icloud.com
+@@||s3-r-w.ap-northeast-2.amazonaws.com
+@@||dcimg3.dcinside.co.kr
+@@||wstatic.dcinside.com
+@@||dcid.dcinside.com
+@@||lv-pcr-api-alb-242144366.ap-northeast-2.elb.amazonaws.com
+@@||dcimg7.dcinside.co.kr
+@@||p20-buy.itunes-apple.com.akadns.net
+@@||www.icloud.com
+@@||kgp-live-elb-openapi-zinny3-1965753367.ap-northeast-2.elb.amazonaws.com
+@@||kgp-live-alb-infodesk-zinny3-647487587.ap-northeast-2.elb.amazonaws.com
+@@||kapi.gl.kakao.com
+@@||config.uca.cloud.unity3d.com
+@@||remote-config-proxy-prd.uca.cloud.unity3d.com
+@@||kgp-live-alb-session-zinny3-2104471325.ap-northeast-2.elb.amazonaws.com
+@@||sdk-api-v1.singular.net
+@@||e4478.a.akamaiedge.net
+@@||us.patch.battle.net
+@@||cdp.cloud.unity3d.com
+@@||kr.patch.battle.net
+@@||telemetry-in.battle.net
+@@||iphone-ld.apple.com
+@@||kr.battle.net
+@@||itunes.apple.com
+@@||us.api.blizzard.com
+@@||kr.launcher.battle.net
+@@||nydus.battle.net
+@@||kr.actual.battle.net
+@@||thind-gke-usc.prd.data.corp.unity3d.com
+
 m.naver.com###HOME_AD
 coupang.com##li[class="search-product search-product__ad-badge"]
 coupang.com##div[class="srp-top-banner-container"]
-
+prod.danawa.com###mainAdPoint
+prod.danawa.com###mainAdReader
+cafe.naver.com##DIV[class="ArticleFormBanner top"]
+cafe.naver.com##DIV[class="ArticleFormBanner bottom"]
