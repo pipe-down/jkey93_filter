@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 20200821
+! Version: 20.08.21.01
 
 ||graph.facebook.com
 ||adservice.google.co.kr
@@ -37,5 +37,6 @@
 ||gfp.veta.naver.com^
 ||m.veta.naver.com.nheos.com
 m.naver.com###HOME_AD
-
+coupang.com##li[class="search-product search-product__ad-badge"]
+coupang.com##div[class="srp-top-banner-container"]
 
