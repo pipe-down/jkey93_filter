@@ -1,6 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: jh_filter
-! Version: 20200820
+! Homepage: https://pipe-down.github.io/jkey93_filter/
+! License: https://pipe-down.github.io/jkey93_filter#license
+! Expires: 1 day
+! Version: 20200821
 
 ||graph.facebook.com
 ||adservice.google.co.kr
