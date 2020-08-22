@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 20.08.21.02
+! Version: 10.00.01
 
 @@||dadispapi.gmarket.co.kr^$domain=escrow.gmarket.co.kr
 ruliweb.com##[id^=adsense]
@@ -12,7 +12,6 @@ ruliweb.com##[id^=ad_]
 ||item.kakao.com^
 ||sb-talk.kakao.com^
 @@||ac-sb-talk.kakao.com^$document
-@@||opgg-static.akamaized.net^$domain=www.op.gg
 ||analytics.ad.daum.net^
 ||kakaogame.com
 @@||console.ncloud.com^$important,document,~extension
@@ -126,3 +125,4 @@ prod.danawa.com###mainAdPoint
 prod.danawa.com###mainAdReader
 cafe.naver.com##DIV[class="ArticleFormBanner top"]
 cafe.naver.com##DIV[class="ArticleFormBanner bottom"]
+op.gg##DIV[class="life-owner LifeOwnerSummonerTopCenter"]
