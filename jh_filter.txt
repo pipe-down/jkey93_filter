@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.01
+! Version: 10.00.02
 
 @@||dadispapi.gmarket.co.kr^$domain=escrow.gmarket.co.kr
 ruliweb.com##[id^=adsense]
@@ -60,7 +60,6 @@ tvdaily.asiae.co.kr###STATICMENU2
 ||decide.mixpanel.com^
 ||staticxx.facebook.com^
 ||tg.kakao.com^$app=com.kakao.talk
-||naverwebtoon-phinf.pstatic.net^
 ||ace.naver.com^
 ||gfp.veta.naver.com^
 ||m.veta.naver.com.nheos.com
