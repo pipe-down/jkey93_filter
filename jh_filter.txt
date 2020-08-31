@@ -3,9 +3,8 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.02
+! Version: 10.00.03
 
-@@||dadispapi.gmarket.co.kr^$domain=escrow.gmarket.co.kr
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
 ||mud-kage.kakao.co.kr^
@@ -116,6 +115,12 @@ tvdaily.asiae.co.kr###STATICMENU2
 @@||nydus.battle.net
 @@||kr.actual.battle.net
 @@||thind-gke-usc.prd.data.corp.unity3d.com
+
+@@||www.netflix.com^$important,document
+@@||dadispapi.gmarket.co.kr^$domain=escrow.gmarket.co.kr
+@@||search.wemakeprice.com$elemhide,content,urlblock
+@@||buy.11st.co.kr/pay/OrderInfoAction.tmall$document
+||filecast.co.kr/html/move^
 
 m.naver.com###HOME_AD
 coupang.com##li[class="search-product search-product__ad-badge"]
