@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.03
+! Version: 10.00.04
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -62,6 +62,7 @@ tvdaily.asiae.co.kr###STATICMENU2
 ||ace.naver.com^
 ||gfp.veta.naver.com^
 ||m.veta.naver.com.nheos.com
+||ad.naver.com/fxshow^
 
 @@||kauth.kakao.com
 @@||live.pcr.kakaogame.com
@@ -130,3 +131,4 @@ prod.danawa.com###mainAdReader
 cafe.naver.com##DIV[class="ArticleFormBanner top"]
 cafe.naver.com##DIV[class="ArticleFormBanner bottom"]
 op.gg##DIV[class="life-owner LifeOwnerSummonerTopCenter"]
+! ppomppu.co.kr##div[class="topSub-nav"]
