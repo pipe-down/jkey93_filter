@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.07
+! Version: 10.00.08
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -158,5 +158,5 @@ www.google.com/amp/s/www.clien.net##.view_center_ad
 www.google.com/amp/s/www.clien.net##.view_bottom_ad
 www.google.com/amp/s/www.clien.net##DIV[class="google_search_ad"]
 www.google.com/amp/s/www.clien.net###n_shop_1
-cooln.net##DIV[class="logo_top3"]
-cooln.net##DIV[class="srolling"]
+cooln.net##div#logo_top3
+cooln.net##div#srolling
