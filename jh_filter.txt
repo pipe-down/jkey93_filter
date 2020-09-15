@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.04
+! Version: 10.00.05
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -130,5 +130,29 @@ prod.danawa.com###mainAdPoint
 prod.danawa.com###mainAdReader
 cafe.naver.com##DIV[class="ArticleFormBanner top"]
 cafe.naver.com##DIV[class="ArticleFormBanner bottom"]
+cafe.naver.com##DIV[class="banner_add"]
+cafe.naver.com##DIV[class="banner_add bottom"]
 op.gg##DIV[class="life-owner LifeOwnerSummonerTopCenter"]
 ! ppomppu.co.kr##div[class="topSub-nav"]
+
+clien.net##div#hongboInfoList
+clien.net##div#naverAd
+clien.net##.list_top_ad
+clien.net##.list_bottom_ad
+clien.net##.main_center_ad
+clien.net##.main_top_ad
+clien.net##.view_center_ad
+clien.net##.view_bottom_ad
+clien.net##DIV[class="google_search_ad"]
+m.clien.net###n_shop_1
+m.clien.net###n_main_shop_1_tgtLREC
+www.google.com/amp/s/www.clien.net##div#hongboInfoList
+www.google.com/amp/s/www.clien.net##div#naverAd
+www.google.com/amp/s/www.clien.net##.list_top_ad
+www.google.com/amp/s/www.clien.net##.list_bottom_ad
+www.google.com/amp/s/www.clien.net##.main_center_ad
+www.google.com/amp/s/www.clien.net##.main_top_ad
+www.google.com/amp/s/www.clien.net##.view_center_ad
+www.google.com/amp/s/www.clien.net##.view_bottom_ad
+www.google.com/amp/s/www.clien.net##DIV[class="google_search_ad"]
+www.google.com/amp/s/www.clien.net###n_shop_1
