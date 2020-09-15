@@ -24,6 +24,7 @@ tvdaily.asiae.co.kr###STATICMENU2
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kakaotv.daum.net,third-party
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tv.kakao.com,third-party
 @@||bidder.criteo.com^$domain=api.dable.io,third-party
+||adserver.rockwell.kakao.com^$important
 ||tg.kakao.com^$app=com.kakao.talk
 @@//www.interpark.com^$document
 ||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
