@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.11
+! Version: 10.00.12
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -127,8 +127,6 @@ tvdaily.asiae.co.kr###STATICMENU2
 m.naver.com###HOME_AD
 coupang.com##li[class="search-product search-product__ad-badge"]
 coupang.com##div[class="srp-top-banner-container"]
-prod.danawa.com###mainAdPoint
-prod.danawa.com###mainAdReader
 cafe.naver.com##DIV[class="ArticleFormBanner top"]
 cafe.naver.com##DIV[class="ArticleFormBanner bottom"]
 cafe.naver.com##DIV[class="banner_add"]
@@ -136,9 +134,14 @@ cafe.naver.com##DIV[class="banner_add bottom"]
 op.gg##DIV[class="life-owner LifeOwnerSummonerTopCenter"]
 ppomppu.co.kr##div[class="topSub-nav"]
 namu.wiki#@#div[id^="chika"] 
+danawa.com###mainAdPoint
+danawa.com###mainAdReader
 danawa.com###ebayPowerClickBottomArea
 danawa.com###powerClickListArea
 danawa.com###mainTop
+danawa.com##DIV[class="ad_star ad_section"]
+danawa.com##DIV[class="ad_caster ad_section"]
+danawa.com##DIV[class="ad_caster ad_section ad_position"]
 coupang.com###sdpAdsBottom
 
 clien.net##div#hongboInfoList
