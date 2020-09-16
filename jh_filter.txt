@@ -167,3 +167,4 @@ www.google.com/amp/s/www.clien.net##DIV[class="google_search_ad"]
 www.google.com/amp/s/www.clien.net###n_shop_1
 cooln.net##div#logo_top3
 cooln.net##div#srolling
+cooln.net##DIV[class="tae"]
