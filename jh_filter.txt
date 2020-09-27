@@ -169,3 +169,4 @@ cooln.net##div#logo_top3
 cooln.net##div#srolling
 cooln.net##DIV[class="tae"]
 cooln.net##DIV[class="tab"]
+fmkorea.com##DIV[class="adpost adpost_search"]
