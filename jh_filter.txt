@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.15
+! Version: 10.00.16
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -142,6 +142,7 @@ danawa.com###mainTop
 danawa.com##DIV[class="ad_star ad_section"]
 danawa.com##DIV[class="ad_caster ad_section"]
 danawa.com##DIV[class="ad_caster ad_section ad_position"]
+danawa.com##DIV[class="bor_mt10 dpg_power_link"]
 coupang.com###sdpAdsBottom
 
 clien.net##div#hongboInfoList
