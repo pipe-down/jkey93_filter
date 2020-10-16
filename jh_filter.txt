@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.17
+! Version: 10.00.18
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -173,3 +173,4 @@ cooln.net##DIV[class="tae"]
 cooln.net##DIV[class="tab"]
 fmkorea.com##DIV[class="adpost adpost_search"]
 fmkorea.com##DIV[class="adpost adpost_search "]
+dcinside.com##DIV[class="kakaoAdWrap"]
