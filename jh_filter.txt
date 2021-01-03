@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.26
+! Version: 10.00.27
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -158,16 +158,27 @@ coupang.com###sdpAdsBottom
 *.clien.net###n_shop_1
 *.clien.net###n_main_shop_1_tgtLREC
 
-www.google.*/amp/s/www.clien.net##div#hongboInfoList
-www.google.*/amp/s/www.clien.net##div#naverAd
-www.google.*/amp/s/www.clien.net##.list_top_ad
-www.google.*/amp/s/www.clien.net##.list_bottom_ad
-www.google.*/amp/s/www.clien.net##.main_center_ad
-www.google.*/amp/s/www.clien.net##.main_top_ad
-www.google.*/amp/s/www.clien.net##.view_center_ad
-www.google.*/amp/s/www.clien.net##.view_bottom_ad
-www.google.*/amp/s/www.clien.net##DIV[class="google_search_ad"]
-www.google.*/amp/s/www.clien.net###n_shop_1
+www.google.co.kr/amp/s/www.clien.net##div#hongboInfoList
+www.google.co.kr/amp/s/www.clien.net##div#naverAd
+www.google.co.kr/amp/s/www.clien.net##.list_top_ad
+www.google.co.kr/amp/s/www.clien.net##.list_bottom_ad
+www.google.co.kr/amp/s/www.clien.net##.main_center_ad
+www.google.co.kr/amp/s/www.clien.net##.main_top_ad
+www.google.co.kr/amp/s/www.clien.net##.view_center_ad
+www.google.co.kr/amp/s/www.clien.net##.view_bottom_ad
+www.google.co.kr/amp/s/www.clien.net##DIV[class="google_search_ad"]
+www.google.co.kr/amp/s/www.clien.net###n_shop_1
+
+www.google.com/amp/s/www.clien.net##div#hongboInfoList
+www.google.com/amp/s/www.clien.net##div#naverAd
+www.google.com/amp/s/www.clien.net##.list_top_ad
+www.google.com/amp/s/www.clien.net##.list_bottom_ad
+www.google.com/amp/s/www.clien.net##.main_center_ad
+www.google.com/amp/s/www.clien.net##.main_top_ad
+www.google.com/amp/s/www.clien.net##.view_center_ad
+www.google.com/amp/s/www.clien.net##.view_bottom_ad
+www.google.com/amp/s/www.clien.net##DIV[class="google_search_ad"]
+www.google.com/amp/s/www.clien.net###n_shop_1
 
 cooln.net##div#logo_top3
 cooln.net##div#srolling
