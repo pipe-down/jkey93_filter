@@ -3,10 +3,13 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.34
+! Version: 10.00.35
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
+##div[class^="revenue_unit_item adfit"]
+
+
 ||mud-kage.kakao.co.kr^
 ||item.kakao.com^
 ||sb-talk.kakao.com^
@@ -185,4 +188,3 @@ auction.co.kr##DIV[class="uxa-spon-box"]
 auction.co.kr##DIV[class="component component--sponsor_link"]
 enuri.com##DIV[class="sponsor_link"]
 enuri.com##DIV[class="comm_ad ad_powerlink"]
-
