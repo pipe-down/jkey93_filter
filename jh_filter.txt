@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.35
+! Version: 10.00.36
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -148,8 +148,8 @@ danawa.com##DIV[class="ad_star ad_section"]
 danawa.com##DIV[class="ad_caster ad_section"]
 danawa.com##DIV[class="ad_caster ad_section ad_position"]
 danawa.com##DIV[class="bor_mt10 dpg_power_link"]
+danawa.com##DIV[class="banner_area h_type"]
 coupang.com###sdpAdsBottom
-
 *.clien.net##div#hongboInfoList
 *.clien.net##div#naverAd
 *.clien.net##DIV[class="list_top_ad"]
@@ -163,7 +163,6 @@ coupang.com###sdpAdsBottom
 *.clien.net##DIV[class="google_search_ad"]
 *.clien.net###n_shop_1
 *.clien.net###n_main_shop_1_tgtLREC
-
 cooln.net##div#logo_top3
 cooln.net##div#srolling
 cooln.net##DIV[class="tae"]
@@ -188,3 +187,4 @@ auction.co.kr##DIV[class="uxa-spon-box"]
 auction.co.kr##DIV[class="component component--sponsor_link"]
 enuri.com##DIV[class="sponsor_link"]
 enuri.com##DIV[class="comm_ad ad_powerlink"]
+encar.com##[class^="list_adarea"]
