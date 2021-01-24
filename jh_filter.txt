@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.38
+! Version: 10.00.39
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -189,3 +189,6 @@ enuri.com##DIV[class="sponsor_link"]
 enuri.com##DIV[class="comm_ad ad_powerlink"]
 encar.com##[class^="list_adarea"]
 fomos.kr##DIV[class^="banner_area"]
+fomos.kr##*[class^="sub_article"]
+fomos.kr##div[class$="_banner"]
+fomos.kr##div[class$="banner_rib jq_banner_rib"]
