@@ -17,7 +17,6 @@ ruliweb.com##[id^=ad_]
 ||kakaogame.com
 @@||console.ncloud.com^$important,document,~extension
 @@||player.twitch.tv^$important,document,~extension
-quasarzone.co.kr###sticker > div.widget-side > div.banner-box:nth-child(4)
 @@||nid.naver.com^$important,document,~extension
 naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLoaded', function() { window.clickcr = window.nclk = function() { }; } ); }
 play.afreecatv.com###contbox > div.videobox:nth-child(2) > div.htmlplayer_wrap:first-child > div.htmlplayer_content > a.adcon-area:nth-child(11)
@@ -129,10 +128,8 @@ tvdaily.asiae.co.kr###STATICMENU2
 m.naver.com###HOME_AD
 coupang.com##li[class="search-product search-product__ad-badge"]
 coupang.com##div[class="srp-top-banner-container"]
-cafe.naver.com##DIV[class="ArticleFormBanner top"]
-cafe.naver.com##DIV[class="ArticleFormBanner bottom"]
-cafe.naver.com##DIV[class="banner_add"]
-cafe.naver.com##DIV[class="banner_add bottom"]
+cafe.naver.com##DIV[class^="ArticleFormBanner"]
+cafe.naver.com##DIV[class^="banner_add"]
 naver.com##DIV[class="ct_box area_bnr"]
 op.gg##DIV[class="life-owner LifeOwnerSummonerTopCenter"]
 ppomppu.co.kr##div[class="topSub-nav"]
@@ -153,14 +150,9 @@ danawa.com##DIV[class^="ad_reader"]
 coupang.com###sdpAdsBottom
 *.clien.net##div#hongboInfoList
 *.clien.net##div#naverAd
-*.clien.net##DIV[class="list_top_ad"]
-*.clien.net##DIV[class="list_bottom_ad"]
-*.clien.net##DIV[class="list_center_ad"]
-*.clien.net##DIV[class="main_center_ad"]
-*.clien.net##DIV[class="main_top_ad"]
-*.clien.net##DIV[class="view_top_ad"]
-*.clien.net##DIV[class="view_bottom_ad"]
-*.clien.net##DIV[class="view_center_ad"]
+*.clien.net##DIV[class$="_top_ad"]
+*.clien.net##DIV[class$="_bottom_ad"]
+*.clien.net##DIV[class$="_center_ad"]
 *.clien.net##DIV[class="google_search_ad"]
 *.clien.net###n_shop_1
 *.clien.net###n_main_shop_1_tgtLREC
@@ -168,7 +160,6 @@ cooln.net##div#logo_top3
 cooln.net##div#srolling
 cooln.net##DIV[class="tae"]
 cooln.net##DIV[class="tab"]
-fmkorea.com##DIV[class="adpost adpost_search"]
 fmkorea.com##DIV[class="adpost adpost_search "]
 dcinside.com##ul.detail-top-lst
 m.dcinside.com##div#adbay_floatingid
@@ -183,8 +174,7 @@ m.dcinside.com##ul.power-lst
 auction.co.kr##DIV[class="ad_area"]
 auction.co.kr##DIV[class="order_btm_ad"]
 auction.co.kr##DIV[class="uxc-bn-add-wrap"]
-auction.co.kr##DIV[class="uxa-sponsor"]
-auction.co.kr##DIV[class="uxa-spon-box"]
+auction.co.kr##DIV[class^="uxa-spon"]
 auction.co.kr##DIV[class="component component--sponsor_link"]
 enuri.com##DIV[class="sponsor_link"]
 enuri.com##DIV[class="comm_ad ad_powerlink"]
