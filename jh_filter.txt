@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.40
+! Version: 10.00.41
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -193,3 +193,4 @@ fomos.kr##DIV[class^="banner_area"]
 fomos.kr##*[class^="sub_article"]
 fomos.kr##div[class$="_banner"]
 fomos.kr##div[class$="banner_rib jq_banner_rib"]
+card-gorilla.com##div.q-dialog.fullscreen.no-pointer-events:last-child > div.q-dialog__inner.flex.no-pointer-events.q-dialog__inner--minimized.q-dialog__inner--left.fixed-left.items-center > div
