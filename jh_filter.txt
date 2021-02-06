@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.43
+! Version: 10.00.44
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -127,6 +127,8 @@ tvdaily.asiae.co.kr###STATICMENU2
 
 google.com##DIV[id="tadsb"]
 google.com##DIV[id$="tvcap"]
+google.co.kr##DIV[id="tadsb"]
+google.co.kr##DIV[id$="tvcap"]
 m.naver.com###HOME_AD
 coupang.com##li[class="search-product search-product__ad-badge"]
 coupang.com##div[class="srp-top-banner-container"]
