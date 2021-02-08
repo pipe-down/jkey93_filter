@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.46
+! Version: 10.00.47
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -175,14 +175,15 @@ m.dcinside.com##div.detail-top-lnk>a[href^="http://addc.dcinside.com/NetInsight/
 m.dcinside.com##h3.power-tit
 m.dcinside.com##ul.all-comment-lst>li.comment:not([id])
 m.dcinside.com##ul.power-lst
-auction.co.kr##DIV[class="ad_area"]
-auction.co.kr##*[class="order_btm_ad"]
-auction.co.kr##DIV[class="uxc-bn-add-wrap"]
+auction.co.kr##DIV[class^="ad_area"]
+auction.co.kr##*[class^="order_btm_ad"]
+auction.co.kr##DIV[class^="uxc-bn-add-wrap"]
 auction.co.kr##DIV[class^="uxa-spon"]
-auction.co.kr##DIV[class="component component--sponsor_link"]
-auction.co.kr##DIV[class="promo module_slot"]
-auction.co.kr##DIV[class="hp_side_banner"]
-auction.co.kr##DIV[class="hp_bot_ad"]
+auction.co.kr##DIV[class^="component component--sponsor_link"]
+auction.co.kr##DIV[class^="promo module_slot"]
+auction.co.kr##DIV[class^="hp_side_banner"]
+auction.co.kr##DIV[class^="hp_bot_ad"]
+auction.co.kr##DIV[class^="side-ads"]
 enuri.com##DIV[class="sponsor_link"]
 enuri.com##DIV[class="comm_ad ad_powerlink"]
 encar.com##[class^="list_adarea"]
