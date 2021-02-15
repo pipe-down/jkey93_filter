@@ -3,7 +3,7 @@
 ! Homepage: https://pipe-down.github.io/jkey93_filter/
 ! License: https://pipe-down.github.io/jkey93_filter#license
 ! Expires: 1 day
-! Version: 10.00.47
+! Version: 10.00.48
 
 ruliweb.com##[id^=adsense]
 ruliweb.com##[id^=ad_]
@@ -135,6 +135,7 @@ coupang.com##div[class="srp-top-banner-container"]
 cafe.naver.com##DIV[class^="ArticleFormBanner"]
 cafe.naver.com##DIV[class^="banner_add"]
 naver.com##DIV[class="ct_box area_bnr"]
+comic.naver.com##DIV[class="item_area"]
 op.gg##DIV[class="life-owner LifeOwnerSummonerTopCenter"]
 ppomppu.co.kr##div[class="topSub-nav"]
 ppomppu.co.kr##div[class="google-ad"]
